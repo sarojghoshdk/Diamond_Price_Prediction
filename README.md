@@ -8,10 +8,10 @@ This repository contains a diamond price prediction project for predicting the p
 ## Data Understanding
 We will be predicting prices for the gemstone.csv dataset.
 
-**Carat represents** the weight of the diamond, and is a numerical variable.<br>
-**Cut represents** the quality of the cut of the diamond, and falls into 5 categories: fair, good, very good, ideal, and premium. In this project, these categories were represented by an ordinal variable, 1-5. You can decide to use the ordinal or categorical variable.<br>
-**Clarity represents** the internal purity of the diamond, and falls into 8 categories: I1, SI2, SI1, VS2, VS1, VVS2, VVS1, and IF (in order from least to most pure). In this project, these categories were represented by an ordinal variable, 1-8. You can decide to use the ordinal or categorical variable.<br>
-**Color represents** the color of the diamond, and is rated D through J, with D being the most colorless (and valuable) and J being the most yellow.
+- **Carat represents** the weight of the diamond, and is a numerical variable.<br>
+- **Cut represents** the quality of the cut of the diamond, and falls into 5 categories: fair, good, very good, ideal, and premium. In this project, these categories were represented by an ordinal variable, 1-5. You can decide to use the ordinal or categorical variable.<br>
+- **Clarity represents** the internal purity of the diamond, and falls into 8 categories: I1, SI2, SI1, VS2, VS1, VVS2, VVS1, and IF (in order from least to most pure). In this project, these categories were represented by an ordinal variable, 1-8. You can decide to use the ordinal or categorical variable.<br>
+- **Color represents** the color of the diamond, and is rated D through J, with D being the most colorless (and valuable) and J being the most yellow.
 
 # Dataset Information : 
 Available in EDA under the notebooks folder
@@ -65,3 +65,15 @@ The project is organized as follows:
 ## Home Page
 
 <img width="960" alt="image" src="https://github.com/sarojghoshdk/demo/blob/main/diamond_price_photo/Home%20page.png">
+
+## Prediction Page
+
+<img width="960" alt="image" src="https://github.com/sarojghoshdk/demo/blob/main/diamond_price_photo/Prediction%20Page.png">
+
+## Values Assign 
+
+<img width="960" alt="image" src="https://github.com/sarojghoshdk/demo/blob/main/diamond_price_photo/values.png">
+
+## Result
+
+<img width="960" alt="image" src="https://github.com/sarojghoshdk/demo/blob/main/diamond_price_photo/Result.png">
